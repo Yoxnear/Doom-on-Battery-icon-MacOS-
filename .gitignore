@@ -1,0 +1,12 @@
+# Doom game data: not part of the source, don't commit it
+*.wad
+*.WAD
+
+# Build output
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/xcuserdata/
+
+# macOS
+.DS_Store
